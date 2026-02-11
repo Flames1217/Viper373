@@ -69,7 +69,7 @@ Still Gathering Statistics...
 ```text
 
 ```
-<!-- Powered by https://github.com/Flames1217/lang-box . -->
+<!-- Powered by https://github.com/Viper373/lang-box . -->
 <!-- lang-box end -->
 
 </td>
